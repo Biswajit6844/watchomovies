@@ -70,7 +70,7 @@ npm start
 
 - This will start the server on port 3000
 
-**To get admin access contact us at shikharshukla15606@gmail.com or sanskarkabra1306@gmail.com**
+**To get admin access contact us at sethybiswajit1762gmail.com or sanskarkabra1306@gmail.com**
 
 - Without admin access you can't blacklist or start or stop any contest
 - Login with facebook will work only in the deployed version and not on localhost, as the app is in production mode
